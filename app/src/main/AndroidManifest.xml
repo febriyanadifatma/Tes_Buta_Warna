@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.febriyanafatma.tes_buta_warna" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Menu_Utama"
+            android:label="@string/title_activity_menu__utama" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan1"
+            android:label="@string/title_activity_pertanyaan1" >
+        </activity>
+        <activity
+            android:name=".Tentang"
+            android:label="@string/title_activity_tentang" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan2"
+            android:label="@string/title_activity_pertanyaan2" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan3"
+            android:label="@string/title_activity_pertanyaan3" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan4"
+            android:label="@string/title_activity_pertanyaan4" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan5"
+            android:label="@string/title_activity_pertanyaan5" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan6"
+            android:label="@string/title_activity_pertanyaan6" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan7"
+            android:label="@string/title_activity_pertanyaan7" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan8"
+            android:label="@string/title_activity_pertanyaan8" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan9"
+            android:label="@string/title_activity_pertanyaan9" >
+        </activity>
+        <activity
+            android:name=".Pertanyaan10"
+            android:label="@string/title_activity_pertanyaan10" >
+        </activity>
+        <activity
+            android:name=".Hasil_Penilaian"
+            android:label="@string/title_activity_hasil__penilaian" >
+        </activity>
+    </application>
+
+</manifest>

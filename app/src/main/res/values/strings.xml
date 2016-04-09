@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tes_Buta_Warna</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu__utama">Menu_Utama</string>
+    <string name="title_activity_pertanyaan1">Pertanyaan1</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="title_activity_pertanyaan2">Pertanyaan2</string>
+    <string name="title_activity_pertanyaan3">Pertanyaan3</string>
+    <string name="title_activity_pertanyaan4">Pertanyaan4</string>
+    <string name="title_activity_pertanyaan5">Pertanyaan5</string>
+    <string name="title_activity_pertanyaan6">Pertanyaan6</string>
+    <string name="title_activity_pertanyaan7">Pertanyaan7</string>
+    <string name="title_activity_pertanyaan8">Pertanyaan8</string>
+    <string name="title_activity_pertanyaan9">Pertanyaan9</string>
+    <string name="title_activity_pertanyaan10">Pertanyaan10</string>
+    <string name="title_activity_hasil__penilaian">Hasil_Penilaian</string>
+</resources>
